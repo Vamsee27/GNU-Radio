@@ -20,3 +20,6 @@ It is also a good idea to practice with real-world signals. You can use a softwa
 
 # Command: 
   gnuradio-companion &
+
+# AM Transmitter & Reciever
+  https://wiki.gnuradio.org/index.php/Simulation_example:_AM_transmitter_and_receiver
