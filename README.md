@@ -11,9 +11,12 @@ You can also use the GNU Radio companion (GRC) to design and test your own flowg
 
 It is also a good idea to practice with real-world signals. You can use a software defined radio (SDR) device, such as a HackRF or RTL-SDR, to capture live RF signals and test them with GNU Radio.
 
-# Installation: https://wiki.gnuradio.org/index.php/InstallingGR
+# Installation: 
+  https://wiki.gnuradio.org/index.php/InstallingGR
  
 
-# Tutorials: https://wiki.gnuradio.org/index.php/Tutorials
+# Tutorials: 
+  https://wiki.gnuradio.org/index.php/Tutorials
 
-# Command: gnuradio-companion &
+# Command: 
+  gnuradio-companion &
